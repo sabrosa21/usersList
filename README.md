@@ -1,4 +1,4 @@
-<h1 align="center">Users List</h1>
+<h1 align="center">Users List made with React</h1>
 
 ### 📌 [Demo](https://simpleuserslist.netlify.app/)
 
